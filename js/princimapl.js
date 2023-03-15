@@ -25,3 +25,4 @@ async function buscar(){
 }
 buscar()
 let tarjeras=document.getElementById("tarjetas")
+
